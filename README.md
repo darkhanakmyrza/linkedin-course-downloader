@@ -13,8 +13,7 @@ USERNAME = 'user@email.com'
 PASSWORD = 'password'
 
 COURSES = [
-    'it-security-foundations-core-concepts',
-    'javascript-for-web-designers-2',
+    'learn-apache-kafka-for-beginners-22305582',
     ...
 ]
 ```
